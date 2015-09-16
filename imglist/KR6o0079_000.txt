@@ -1,0 +1,3 @@
+001-0583b00	TKD 17-0701c	buddhist/K-koreana/17-tif/0700-0799/17_0701_C.TIF
+000-0583c11	TKD 17-0702a	buddhist/K-koreana/17-tif/0700-0799/17_0702_A.TIF
+000-0584a01	TKD 17-0702b	buddhist/K-koreana/17-tif/0700-0799/17_0702_B.TIF
