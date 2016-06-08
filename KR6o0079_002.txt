@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:39.327325
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:56
 #+TITLE: 大乘起信論
 #+PROPERTY: CBETA_ID T32n1667
 #+PROPERTY: ID KR6o0079
@@ -356,7 +356,7 @@
 「　我今已解釋
 　甚深廣大義¶
 　功德施群生
-　令見真如法
+　令見真如法」
 #+END_VERSE
-」¶
+¶
 大乘起信論卷中
