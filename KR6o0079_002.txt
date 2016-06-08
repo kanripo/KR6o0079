@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:38.307720
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:56
 #+TITLE: 大乘起信論
 #+PROPERTY: CBETA_ID T32n1667
 #+PROPERTY: ID KR6o0079
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1667
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0079_T_000-0583b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0079_T_002-0588b> ¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 大乘起信論卷下¶
+大乘起信論卷下¶
 ¶
 馬鳴菩薩造¶
 大周于闐三藏實叉難陀¶
@@ -159,7 +158,7 @@
 真如法身故。能於一念遍往十方一切世界。¶
 供養諸佛請轉法輪。唯為眾生而作利益不¶
 求聽受美妙音詞。或為怯弱眾生故示大精¶
-進。超無量劫速成正覺。或為懈怠眾生故。經¶
+進。超無量劫速成正覺。成為懈怠眾生故。經¶
 於無量阿僧祇劫。久修苦行方始成佛。如是¶
 示現無數方便。皆為饒益一切眾生。而實菩¶
 薩種性諸根發心作證。皆悉同等無超過法。¶
@@ -357,7 +356,7 @@
 「　我今已解釋
 　甚深廣大義¶
 　功德施群生
-　令見真如法
+　令見真如法」
 #+END_VERSE
-」¶
+¶
 大乘起信論卷下
